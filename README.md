@@ -1,7 +1,4 @@
 - 👋 Hi, I’m Nawaraj karki
-- 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning Python and Web Development
-- 💞️ Let's collaborate.
 - 📫 
 
 <!---
