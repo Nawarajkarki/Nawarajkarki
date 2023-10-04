@@ -1,3 +1,5 @@
+![Cover Picture](Assets/images/hans-jurgen-weinhardt-aAnhVJwp9o0-unsplash2.jpg)
+
 - 👋 Hi, I’m Nawaraj karki
 - 📫 
 
