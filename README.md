@@ -1,4 +1,4 @@
-![Cover Picture](Assets/images/banner.png)
+![Cover Picture](Assets/images/banner2.png)
 
 - 👋 Hi, I’m Nawaraj karki
 - 📫 
