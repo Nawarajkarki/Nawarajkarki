@@ -1,3 +1,4 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=nawarajkarki.nawarajkarki" />
 ![Cover Picture](Assets/images/banner2.png)
 
 - 👋 Hi, I’m Nawaraj karki
